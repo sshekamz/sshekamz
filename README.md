@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Shekhar
-- 🌱 I’m currently learning API development
-- 💞️ I’m looking to collaborate on Flutter Dart developement
+- 🌱 I’m currently Working on Full Stack Development 
+- 💞️ I’m looking to collaborate on Flutter Dart development
 - 📫 How to reach me ...  email: shashanknkework@gmail.com
 
 <!---
